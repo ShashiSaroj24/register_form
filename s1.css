@@ -1,7 +1,7 @@
 
 body{
 	background-image:url('https://indieground.net/wp-content/uploads/2023/03/Freebie-GradientTextures-Preview-05.jpg');
-	margin: 0px;padding: 0px;justify-items: center;
+	margin: 0px;padding: 0px;justify-content: center;
 	align-items: center;
 	height: 100vh;
 }
@@ -11,7 +11,7 @@ body{
 padding: 20px;
 background-color: transparent;
 box-shadow: 0px 0px 10px black, 10px 10px 30px black;
-height: 400px; width: 50%;
+height: 400px; width: 50vw;
 border-radius: 50px;
 }
 
